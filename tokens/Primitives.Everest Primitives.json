@@ -73,7 +73,7 @@
       },
       "gray-400": {
         "$type": "color",
-        "$value": "#a5a5a5",
+        "$value": "#642768",
         "$description": "",
         "$extensions": {
           "com.figma": {
