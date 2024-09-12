@@ -1,0 +1,1204 @@
+{
+  "Interactive": {
+    "Primary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Color.Blue.blue-400}",
+        "$description": "Default color for interactive elements",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Color.Blue.blue-500}",
+        "$description": "Default hover color for interactive elements",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Pressed": {
+        "$type": "color",
+        "$value": "{Color.Blue.blue-600}",
+        "$description": "Default pressed color for interactive elements",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Decorative": {
+        "$type": "color",
+        "$value": "{Color.Blue.blue-50}",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "{Color.Blue.blue-400}",
+        "$description": "Focus color",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Inverse": {
+      "Secondary": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Blue.blue-200}",
+          "$description": "Link color on Secondary Inverse surface",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Color.Blue.blue-100}",
+          "$description": "Link hover on Secondary Inverse surface",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Color.Blue.blue-50}",
+          "$description": "Pressed link color on Secondary Inverse surface",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      }
+    },
+    "Neutral": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-600}",
+        "$description": "Neutral default link color",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-800}",
+        "$description": "Neutral link hover color",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Pressed": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-900}",
+        "$description": "Pressed link color",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Status": {
+      "Error": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Red.red-400}",
+          "$description": "Error default color for interactive elements",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Color.Red.red-500}",
+          "$description": "Error hover color for interactive elements",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Color.Red.red-600}",
+          "$description": "Error pressed color for interactive elements",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Decorative": {
+          "$type": "color",
+          "$value": "{Color.Red.red-50}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Success": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Green.green-400}",
+          "$description": "Success default color for interactive elements",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Color.Green.green-500}",
+          "$description": "Success hover color for interactive elements",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Color.Green.green-600}",
+          "$description": "Success pressed color for interactive elements",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Decorative": {
+          "$type": "color",
+          "$value": "{Color.Green.green-50}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Yellow.yellow-400}",
+          "$description": "Warning default color for interactive elements",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Color.Yellow.yellow-500}",
+          "$description": "Warning hover color for interactive elements",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Color.Yellow.yellow-600}",
+          "$description": "Warning pressed color for interactive elements",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Decorative": {
+          "$type": "color",
+          "$value": "{Color.Yellow.yellow-50}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "Content": {
+    "Status": {
+      "Error": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Red.red-400}",
+          "$description": "Error content on Default/Primary surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "HighEmp": {
+          "$type": "color",
+          "$value": "{Color.Neutrals.white}",
+          "$description": "Error content on Error/HighEmp surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "LowEmp": {
+          "$type": "color",
+          "$value": "{Color.Red.red-700}",
+          "$description": "Error content on Error/LowEmp surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Success": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Green.green-500}",
+          "$description": "Success content on Default/Primary surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "HighEmp": {
+          "$type": "color",
+          "$value": "{Color.Neutrals.white}",
+          "$description": "Success content on Success/HighEmp surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "LowEmp": {
+          "$type": "color",
+          "$value": "{Color.Green.green-700}",
+          "$description": "Success content Success/LowEmp surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Yellow.yellow-600}",
+          "$description": "Warning content on Default/Primary surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "HighEmp": {
+          "$type": "color",
+          "$value": "{Color.Neutrals.gray-800}",
+          "$description": "Warning content on Warning/HighEmp surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "LowEmp": {
+          "$type": "color",
+          "$value": "{Color.Neutrals.gray-800}",
+          "$description": "Warning content on Warning/LowEmp surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Informative": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Blue.blue-400}",
+          "$description": "Informative content on informative/Default surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "HighEmp": {
+          "$type": "color",
+          "$value": "{Color.Neutrals.white}",
+          "$description": "Informative content on informative/LowEmp surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "LowEmp": {
+          "$type": "color",
+          "$value": "{Color.Blue.blue-700}",
+          "$description": "Informative content on informative/LowEmp surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      }
+    },
+    "Primary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-600}",
+        "$description": "Body text, paragraphs, subtext, default icons",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "HighEmp": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-800}",
+        "$description": "Headers, labels, top and bottom navigation icons",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "LowEmp": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-500}",
+        "$description": "Hint text, icons within inputs",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Inverse": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.white}",
+        "$description": "Content on primary system actions, controls (Blue400)",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    }
+  },
+  "Borders": {
+    "Primary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-500}",
+        "$description": "Interactive borders (inputs and selection controls) ",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-600}",
+        "$description": "Hovering on interactive borders (inputs and selection controls) ",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Pressed": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-700}",
+        "$description": "Only applies when the user interacts with the component. ",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Decorative": {
+      "LowEmp": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-200}",
+        "$description": "Non-interactive or decorative borders, lines or dividers.",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Default": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-300}",
+        "$description": "Non-interactive or decorative borders, lines or dividers.",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "HighEmp": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-500}",
+        "$description": "Non-interactive or decorative borders, lines or dividers.",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Status": {
+      "Error": {
+        "$type": "color",
+        "$value": "{Color.Red.red-400}",
+        "$description": "Error border on inputs",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "{Color.Green.green-400}",
+        "$description": "Success border on inputs",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "{Color.Yellow.yellow-600}",
+        "$description": "Warning border on inputs",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    }
+  },
+  "Surfaces": {
+    "Primary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.white}",
+        "$description": "Primary surface for backgrounds, cards, menus, popups",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-100}",
+        "$description": "Hovering on primary surfaces for backgrounds, cards, menus, popups",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Selected": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-200}",
+        "$description": "Specific for Table - Background color for when a row is selected and the corresponding Side Panel is open ",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Secondary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-50}",
+        "$description": "Secondary surface for subtle backgrounds",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-200}",
+        "$description": "Hovering on secondary surfaces",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Tertiary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-100}",
+        "$description": "Tertiary surfaces are used to provide more contrast between UI elements, objects and containers",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.gray-300}",
+        "$description": "Hovering on tertiary surfaces",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Inverse": {
+      "Primary": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Neutrals.gray-800}",
+          "$description": "Inverse surfaces are used only for components only when it needs to stand out against the background color",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Secondary": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Color.Neutrals.gray-700}",
+          "$description": "Inverse surfaces are used only for components when it needs to stand out against the background color",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Color.Neutrals.gray-600}",
+          "$description": "Inverse surface hover. Only used within components or nested components",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Color.Neutrals.gray-500}",
+          "$description": "Inverse surface pressed. Only used within components or nested components",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      }
+    },
+    "Overlay": {
+      "Overlay": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.OpacityBlack.opacity-70}",
+        "$description": "Overlays under modals and dialogs",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Gradient": {
+      "Opacity-0": {
+        "$type": "color",
+        "$value": "{Color.Neutrals.OpacityWhite.opacity-0}",
+        "$description": "Overlays under modals and dialogs",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Status": {
+      "Error": {
+        "HighEmp": {
+          "$type": "color",
+          "$value": "{Color.Red.red-400}",
+          "$description": "Primary, high emphasis error surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "LowEmp": {
+          "$type": "color",
+          "$value": "{Color.Red.red-50}",
+          "$description": "Secondary, low emphasis error surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Color.Red.red-100}",
+          "$description": "Secondary, low emphasis error surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Color.Red.red-200}",
+          "$description": "Secondary, low emphasis error surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Success": {
+        "HighEmp": {
+          "$type": "color",
+          "$value": "{Color.Green.green-400}",
+          "$description": "Primary, high emphasis success surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "LowEmp": {
+          "$type": "color",
+          "$value": "{Color.Green.green-50}",
+          "$description": "Secondary, low emphasis success surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Color.Green.green-100}",
+          "$description": "Secondary, low emphasis success surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Color.Green.green-200}",
+          "$description": "Secondary, low emphasis success surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Warning": {
+        "HighEmp": {
+          "$type": "color",
+          "$value": "{Color.Yellow.yellow-400}",
+          "$description": "Primary, high emphasis warning surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "LowEmp": {
+          "$type": "color",
+          "$value": "{Color.Yellow.yellow-50}",
+          "$description": "Secondary, low emphasis warning surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Color.Yellow.yellow-200}",
+          "$description": "Secondary, low emphasis warning surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Color.Yellow.yellow-300}",
+          "$description": "Secondary, low emphasis warning surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Informative": {
+        "HighEmp": {
+          "$type": "color",
+          "$value": "{Color.Blue.blue-400}",
+          "$description": "Primary, high emphasis informative surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "LowEmp": {
+          "$type": "color",
+          "$value": "{Color.Blue.blue-50}",
+          "$description": "Secondary, low emphasis informative surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Color.Blue.blue-100}",
+          "$description": "Secondary, low emphasis informative surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Color.Blue.blue-200}",
+          "$description": "Secondary, low emphasis informative surfaces",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "Inactive": {
+    "Content": {
+      "$type": "color",
+      "$value": "{Color.Neutrals.gray-400}",
+      "$description": "Inactive content for text and icons",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    },
+    "Border": {
+      "$type": "color",
+      "$value": "{Color.Neutrals.gray-200}",
+      "$description": "Inactive borders on primary and secondary surfaces &amp; disabled interactive borders, etc.",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    },
+    "Surface": {
+      "$type": "color",
+      "$value": "{Color.Neutrals.gray-100}",
+      "$description": "Inactive surfaces for backgrounds, buttons, inputs, cards, dialogs, modals, etc",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    }
+  }
+}
